@@ -4,8 +4,8 @@ I am a **Water Resources Engineer** with over 12 years of experience in **hydrau
 
 ## 🔹 About Me
 - Licensed **PE in Massachusetts**  
-- Expertise in **bridge and roadway drainage design**, **H&H studies**, and **environmental permitting**  
-- Skilled in **AutoCAD Civil 3D**, **HEC-RAS**, and **stormwater system modeling**  
+- Expertise in **Roadway drainage design**, **H&H studies**, and **Environmental Permitting**  
+- Skilled in **AutoCAD Civil 3D**, **HEC-RAS**, and **Stormwater System Modeling**  
 
 ## 💼 Experience Highlights
 - Pennsylvania DOT: Multiple bridge replacement projects across PA  
